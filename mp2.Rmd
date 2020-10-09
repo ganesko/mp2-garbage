@@ -1,7 +1,7 @@
 ---
 title: "Put a real title here"
 subtitle: "SDS 192: MP2"
-author: "Ben Baumer"
+author: "Ben Baumer, Han Solo"
 date: "`r format(Sys.Date(), '%B %e, %Y')`"
 output: 
   html_document:
@@ -29,6 +29,8 @@ library(sds192)
 ## Introduction
 
 What is this article about?
+
+![](https://compote.slate.com/images/2b6fb34a-8047-4e17-b3d5-64987519657d.jpg)
 
 ## Loading the data
 
