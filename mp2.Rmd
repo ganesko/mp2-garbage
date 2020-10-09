@@ -1,7 +1,7 @@
 ---
 title: "Put a real title here"
 subtitle: "SDS 192: MP2"
-author: "Your name"
+author: "Ben Baumer"
 date: "`r format(Sys.Date(), '%B %e, %Y')`"
 output: 
   html_document:
